@@ -6,12 +6,12 @@
 }
 
 :root{
+    --primary-color: #8f0101;
+    --secondary-color: #B81515;
+
     --background-primary-color: #ffffff ;
     --background-secondary-color: #f5f5f5;
     --background-tertiary-color: #000;
-
-    --butoon-primary-color: #8f0101;
-    --butoon-secondary-color: #B81515;
 
     --text-primary-color: #222222;
     --text-primary-color: #FFFFFF;
